@@ -15,7 +15,7 @@ const squareStyle = {
   'justifyContent': 'center',
   'alignItems': 'center',
   'fontSize': '20px',
-  'color': 'white'
+  'color': 'black'
 }
 
 const boardStyle = {
